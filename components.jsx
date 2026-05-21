@@ -465,7 +465,7 @@ const ROOMS = [
     minutes: 75,
     players: "2–5",
     mediaVariant: 0,
-    photo: "rooms/sekret-dziadka.jpg",
+    photo: "sekret-dziadka.jpg",
   },
   {
     id: "dom-pogrzebowy",
@@ -475,7 +475,7 @@ const ROOMS = [
     minutes: 60,
     players: "2–5",
     mediaVariant: 1,
-    photo: "rooms/dom-pogrzebowy.jpg",
+    photo: "dom-pogrzebowy.jpg",
   },
   {
     id: "zielona-mila",
@@ -485,7 +485,7 @@ const ROOMS = [
     minutes: 110,
     players: "2–4",
     mediaVariant: 2,
-    photo: "rooms/zielona-mila.png",
+    photo: "zielona-mila.png",
   },
 ];
 
